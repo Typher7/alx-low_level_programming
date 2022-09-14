@@ -4,7 +4,7 @@
 /**
  * main - Check description
  * Description: It prints the alphabet in lowercase, followed by a new line.
- * Return: 0.
+ * Return: No return.
  */
 void print_alphabet(void)
 {
@@ -14,5 +14,4 @@ for (i='a'; i<='z'; i++)
 _putchar(i);
 }
 _putchar('\n');
-return (0);
 }

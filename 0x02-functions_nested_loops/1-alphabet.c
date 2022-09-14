@@ -8,11 +8,12 @@
  */
 int main(void)
 {
-char text[30] = "abcdefghijklmnopqrstuvwxyz";
-int i
+char word[30] = "abcdefghijklmnopqrstuvwxyz";
+ int i;
 for (i=0; i<27; i++)
 {
-_putchar(text[i]);
+_putchar(word[i]);
 }
 _putchar('\n');
+return (0);
 }

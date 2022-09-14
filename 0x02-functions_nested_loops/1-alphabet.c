@@ -2,10 +2,11 @@
 #include "main.h"
 
 /**
- * main - Check description
- * Description: It prints the alphabet in lowercase, followed by a new line.
- * Return: No return.
+ * main - Print Alphabets.
+ * Description: It prints the alphabets in lowercase, followed by a new line.
+ * Return: Nothing.
  */
+
 void print_alphabet(void)
 {
 char i;

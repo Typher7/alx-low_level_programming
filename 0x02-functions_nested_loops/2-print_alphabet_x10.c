@@ -3,7 +3,7 @@
 
 /**
  * print_alphabet_x10 - Check description
- * Description: It prints the alphabet in lowercase ten times followed by a new line
+ * Description: Prints the alphabet in lowercase ten times and a new line
  * Return: Nothing.
  */
 void print_alphabet_x10(void)

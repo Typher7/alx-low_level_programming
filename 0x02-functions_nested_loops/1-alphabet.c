@@ -6,13 +6,12 @@
  * Description: It prints the alphabet in lowercase, followed by a new line.
  * Return: 0.
  */
-int main(void)
+void print_alphabet(void)
 {
-char word[30] = "abcdefghijklmnopqrstuvwxyz";
- int i;
-for (i=0; i<27; i++)
+char i;
+for (i='a'; i<='z'; i++)
 {
-_putchar(word[i]);
+_putchar(i);
 }
 _putchar('\n');
 return (0);

@@ -14,6 +14,6 @@ for (i = 0; i < 9; i++)
 {
 _putchar(word[i]);
 }
-_putchar('x\n');
+_putchar('\n');
 return (0);
 }

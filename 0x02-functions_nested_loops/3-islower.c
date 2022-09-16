@@ -3,6 +3,7 @@
 
 /**
  * _islower - Check description
+ * @c: An input char
  * Description: Checks for lowercase character
  * Return: 1 if c is lowercase or 0 otherwise.
  */
